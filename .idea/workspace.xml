@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a93d5c50-2d05-422b-9c3a-a88e4ffd5e73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/apple-app/android/.gradle/5.6.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/.gradle/5.6.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/.gradle/5.6.2/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/.gradle/5.6.2/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/.gradle/5.6.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/.gradle/5.6.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/.gradle/5.6.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/.gradle/5.6.2/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/.gradle/5.6.2/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/.gradle/5.6.2/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/.gradle/5.6.2/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/.gradle/5.6.2/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/android/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/assets/apple_app.tflite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/assets/labels.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonscripts.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/app/src/main/kotlin/com/example/transfer_learning_fruit_veggies/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/android/app/src/main/kotlin/com/example/transfer_learning_fruit_veggies/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/android/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/android/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/android/transfer_learning_fruit_veggies_android.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/assets/labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/assets/model.tflite" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/assets/apple_app1.tflite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Flutter/Generated.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Flutter/flutter_export_environment.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/GeneratedPluginRegistrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/GeneratedPluginRegistrant.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/lib/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/lib/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/apple-app/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfer_learning_fruit_veggies/transfer_learning_fruit_veggies.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1v7cg0XP9O8F1bLvZ9lHfxJ4Nah" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../apple_app" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sangini Gupta\AndroidStudioProjects\Apple-App-Flutter\apple-app\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="flutter-to-go" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/apple-app/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a93d5c50-2d05-422b-9c3a-a88e4ffd5e73" name="Default Changelist" comment="" />
+      <created>1625916677603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625916677603</updated>
+    </task>
+    <task id="LOCAL-00001" summary="apple- app commit">
+      <created>1625920029867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625920029869</updated>
+    </task>
+    <task id="LOCAL-00002" summary="apple- app commit">
+      <created>1625924074575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625924074575</updated>
+    </task>
+    <task id="LOCAL-00003" summary="apple- app commit">
+      <created>1625924983175</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625924983175</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="apple- app commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="apple- app commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625916979015">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1625916979015" />
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1625916975692">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1625916975692" />
+    <state x="179" y="0" key="CommitChangelistDialog2" timestamp="1625924978962">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="179" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1625924978962" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1625918840713">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1625918840713" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1625925526508">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1625925526508" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1625925526508">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1625925526508" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1625925526508">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1625925526508" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1625925526508">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1625925526508" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1625925004526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1625925004526" />
+  </component>
+</project>
